@@ -1,7 +1,5 @@
-# Ex.No: 08     MOVING AVERAGE MODEL AND EXPONENTIAL SMOOTHING
-### Date: 
-#### NAME : KAVINRAJA D
-#### REG NO : 212222240047
+# MOVING AVERAGE MODEL AND EXPONENTIAL SMOOTHING
+
 ### AIM:
 To implement Moving Average Model and Exponential smoothing Using Python.
 ### ALGORITHM:
